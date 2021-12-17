@@ -1,0 +1,15 @@
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/bin/Debug/net6.0/FirstProject
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/bin/Debug/net6.0/FirstProject.deps.json
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/bin/Debug/net6.0/FirstProject.runtimeconfig.json
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/bin/Debug/net6.0/FirstProject.dll
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/bin/Debug/net6.0/ref/FirstProject.dll
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/bin/Debug/net6.0/FirstProject.pdb
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.csproj.AssemblyReference.cache
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.AssemblyInfoInputs.cache
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.AssemblyInfo.cs
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.csproj.CoreCompileInputs.cache
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.dll
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/ref/FirstProject.dll
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.pdb
+/home/manuchao/Documentos/WWW/CSharpProject/FirstProject/obj/Debug/net6.0/FirstProject.genruntimeconfig.cache
