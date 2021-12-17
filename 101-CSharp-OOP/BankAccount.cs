@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace MySuperBank
 {
   public class BankAccount
@@ -51,6 +53,20 @@ namespace MySuperBank
       }
       var withdrawal = new Transaction(-amount, date, note);
       allTransactions.Add(withdrawal);
+    }
+
+    public string GetAccountHistory()
+    {
+      var report = new StringBuilder();
+
+      //Header
+      report.AppendLine("Date\t\tAmount\t\tNote");
+      foreach (var item in allTransactions)
+      {
+        //Rows
+        report.AppendLine($"{item.Date.ToShortDateString()}\t${item.Amount}\t\t{item.Notes}");
+      }
+      return report.ToString();
     }
   }
 }
