@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "FirstProject/1.0.0": {
+      "101-CSharp-OOP/1.0.0": {
         "runtime": {
-          "FirstProject.dll": {}
+          "101-CSharp-OOP.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FirstProject/1.0.0": {
+    "101-CSharp-OOP/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/FirstProject/FirstProject.csproj",
+        "${workspaceFolder}/101-CSharp-OOP/101-CSharp-OOP.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/FirstProject/FirstProject.csproj",
+        "${workspaceFolder}/101-CSharp-OOP/101-CSharp-OOP.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -32,7 +32,7 @@
       "args": [
         "watch",
         "run",
-        "${workspaceFolder}/FirstProject/FirstProject.csproj",
+        "${workspaceFolder}/101-CSharp-OOP/101-CSharp-OOP.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],

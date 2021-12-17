@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/manuchao/Documentos/WWW/CSharpProject/101-CSharp-OOP/101-CSharp-OOP.csproj": {}
+    "/home/manuchao/Documentos/WWW/CSharpProject-Studies/101-CSharp-OOP/101-CSharp-OOP.csproj": {}
   },
   "projects": {
-    "/home/manuchao/Documentos/WWW/CSharpProject/101-CSharp-OOP/101-CSharp-OOP.csproj": {
+    "/home/manuchao/Documentos/WWW/CSharpProject-Studies/101-CSharp-OOP/101-CSharp-OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/manuchao/Documentos/WWW/CSharpProject/101-CSharp-OOP/101-CSharp-OOP.csproj",
+        "projectUniqueName": "/home/manuchao/Documentos/WWW/CSharpProject-Studies/101-CSharp-OOP/101-CSharp-OOP.csproj",
         "projectName": "101-CSharp-OOP",
-        "projectPath": "/home/manuchao/Documentos/WWW/CSharpProject/101-CSharp-OOP/101-CSharp-OOP.csproj",
+        "projectPath": "/home/manuchao/Documentos/WWW/CSharpProject-Studies/101-CSharp-OOP/101-CSharp-OOP.csproj",
         "packagesPath": "/home/manuchao/.nuget/packages/",
-        "outputPath": "/home/manuchao/Documentos/WWW/CSharpProject/101-CSharp-OOP/obj/",
+        "outputPath": "/home/manuchao/Documentos/WWW/CSharpProject-Studies/101-CSharp-OOP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/manuchao/.nuget/NuGet/NuGet.Config"

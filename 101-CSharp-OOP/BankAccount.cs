@@ -24,6 +24,7 @@ namespace MySuperBank
     public BankAccount(string name, decimal initialBalance)
     {
       this.Owner = name;
+      MakeDeposit(initialBalance, DateTime.Now, "Initial Balance");
       this.Number = accountNumberSeed.ToString();
       accountNumberSeed++;
     }
